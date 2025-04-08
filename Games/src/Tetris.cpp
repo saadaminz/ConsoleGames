@@ -1,6 +1,4 @@
 
-#if 0
-
 #include <iostream>
 #include <Windows.h>
 #include <array>
@@ -269,6 +267,8 @@ void RunLoop()
 		}
 	}
 }
+
+#if 0
 
 int main()
 {

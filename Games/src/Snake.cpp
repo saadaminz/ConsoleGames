@@ -1,6 +1,4 @@
 
-#if 0
-
 #include <iostream>
 #include <Windows.h>
 #include <vector>
@@ -162,6 +160,8 @@ struct Snake
 		}
 	}
 };
+
+#if 0
 
 int main()
 {
